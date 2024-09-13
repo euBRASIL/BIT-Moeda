@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+euBRASIL( CryptoREAL )
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Este é o Projeto para a criação de uma crypto-moeda no Brasil.
 
-Read the tutorial here:
+BIT-Moeda
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://docs.readthedocs.io/...em...construção
