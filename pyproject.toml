@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
-dynamic = ["version", "description"]
+name = "CryptoREAL"
+authors = [{name = "Ricardo Costa", email = "cryptoreal@bit-moeda.com"}]
+dynamic = ["2.0.0", "Este Projeto é a criação da bit moeda no Brasil de acordo com o artigo Lei do Banco Central do Brasil( Resolução BCB nº465666/18. )"]
