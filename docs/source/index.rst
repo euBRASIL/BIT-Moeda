@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
-===================================
+Construindo a bit moeda no Brasil
+=================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**euBRASIL** através da Yes,Tecnologias esta desenvolvendo toda a Tecnologia de Blockchain personalizada com a necessidade de buscar saldos perdidos no final da Blockchain, e endereço com +10 anos sem nenhuma saída chamados de UTX0.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Fundamentado no artigo LEI do Banco Central do Brasil, a euBRASIL está construindo sua própria Comunidade de Empréstimo de Pessoa pra Pessoa. Utilizando a Blockchain, IDE, Contrato "inteligente" e outros recursos como I@Golem, Sistema Operacional Bitcoin, Tecnologia NEO4J estamos implementando uma solução segura que será totalmente independente de interferência humana.
 
 .. note::
 
-   This project is under active development.
+   A criação de um Grupo de 10 Pessoas que será gerenciada através de um Contrato "inteligente" que efetua a reserva de 1 Trilhão de BRs e depois distribui esta reserva para os novos contratos "inteligentes" que serão criados através da EVM.
 
-Contents
+Objetivo
 --------
 
 .. toctree::
 
-   usage
-   api
+   Grupo de 10 Pessoas
+   IA | Busca de saldos ❝perdidos❞
