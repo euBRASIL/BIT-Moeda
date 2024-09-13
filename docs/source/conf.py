@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CryptoREAL'
+copyright = '2020, euBRASIL'
+author = 'Ricardo Costa'
 
 release = '0.1'
-version = '0.1.0'
+version = '2.1.0'
 
 # -- General configuration
 
