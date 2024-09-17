@@ -13,6 +13,9 @@ O pagamento de taxas em Br é uma forma de remunerar aquele que mantém o seu in
 
 Objetivo
 --------
+* Bônus de Engajamento no valor de R$ 0,40 por dia.
+* Valorização de R$ 0,10 por Grupo através da aquisição de BRs por este valor todos os dias.
+* O congelamento de R$ 0,50 por dia durante um período de 6 meses para gerar liquidez deste Token Br.
 
 .. Árvore de Decisão::
 
