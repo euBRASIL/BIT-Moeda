@@ -15,6 +15,6 @@ Contents
 
 .. toctree::
 
-   Home <self>
-   Grupo de 10 Pessoas
-   api
+   CryptoREAL <self>
+   Grupo@10Pessoas
+   Contrato@Inteligente
