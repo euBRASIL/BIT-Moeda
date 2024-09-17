@@ -16,6 +16,6 @@ Objetivo
 .. toctree::
 
    CryptoREAL <self>
-   SmartContract
+   10Pessoas
    Token-Br
    
