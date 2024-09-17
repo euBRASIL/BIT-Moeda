@@ -7,7 +7,7 @@ Fundamentado no artigo LEI do Banco Central do Brasil, a euBRASIL está construi
 
 .. note::
 
-   A criação de um Grupo de [10 Pessoas](https://bit-moeda.readthedocs.io/pt/latest/10Pessoas.html) que será gerenciada através de um Contrato "inteligente" que efetua a reserva de 1 Trilhão de BRs e depois distribui esta reserva para os novos contratos "inteligentes" que serão criados através da EVM.
+   A criação de um Grupo de <a href="https://bit-moeda.readthedocs.io/pt/latest/10Pessoas.html">10 Pessoas</a> que será gerenciada através de um Contrato "inteligente" que efetua a reserva de 1 Trilhão de BRs e depois distribui esta reserva para os novos contratos "inteligentes" que serão criados através da EVM.
 
 Objetivo
 --------
