@@ -16,5 +16,6 @@ Objetivo
 .. toctree::
 
    CryptoREAL <self>
-   Token(Br)
    SmartContract
+   Token-Br
+   
