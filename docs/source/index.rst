@@ -5,6 +5,12 @@ Construindo a bit moeda no Brasil
 
 Fundamentado no artigo LEI do Banco Central do Brasil, a euBRASIL está construindo sua própria Comunidade de Empréstimo de Pessoa pra Pessoa. Utilizando a Blockchain, IDE, Contrato "inteligente" e outros recursos como I@Golem, Sistema Operacional Bitcoin, Tecnologia NEO4J estamos implementando uma solução segura que será totalmente independente de interferência humana.
 
+It pulls data from the `10 Pessoas <https://bit-moeda.readthedocs.io/pt/latest/10Pessoas.html>`_
+and offers a *simple* and *intuitive* API.
+
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
+
 .. note::
 
    A criação de um Grupo de 10 Pessoas que será gerenciada através de um Contrato "inteligente" que efetua a reserva de 1 Trilhão de BRs e depois distribui esta reserva para os novos contratos "inteligentes" que serão criados através da EVM.
