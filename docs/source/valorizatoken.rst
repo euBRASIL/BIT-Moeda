@@ -1,6 +1,3 @@
-#Débito de R$ 0,10 diário
-
-
 Valorizar o Token Br
 ====================
 
