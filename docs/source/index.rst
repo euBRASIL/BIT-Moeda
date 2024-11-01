@@ -18,5 +18,5 @@ Objetivo
 
    CryptoREAL <self>
    10Pessoas
-   Token-Br
+   Contrato Inteligente
    
