@@ -18,5 +18,5 @@ Objetivo
 
    CryptoREAL <self>
    10Pessoas
-   Contrato Inteligente
+   valorizatoken
    
