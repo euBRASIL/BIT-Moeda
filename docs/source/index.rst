@@ -18,4 +18,5 @@ Objetivo
 
    CryptoREAL <self>
    valorizatoken
+   dogecoin
    10Pessoas
