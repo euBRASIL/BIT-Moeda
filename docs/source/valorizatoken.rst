@@ -15,7 +15,7 @@ Objetivo
 
 .. toctree::
 
-   CryptoREAL <self>
+   valorizatoken<self>
    10Pessoas
-   Token-Br
+   CryptoREAL
    
