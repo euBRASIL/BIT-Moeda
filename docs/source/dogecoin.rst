@@ -1,23 +1,22 @@
 O que é uma Carteira MultiSign?
 ==============================
 
-**Grupo de 10 Pessas** esta é toda a base da economia deste Projeto fundamentado na criação de uma Sociedade de Empréstimo de Pessoa pra Pessoa (SEP), que utiliza um meio tecnológico para administrar o (crédito/débito) que entra ou sai na conta dessas 10 Pessoas que aceitaram se unir ao redor deste intuito de ganhar(+) mesmo investindo o mesmo valor todos os dias no decorrer de 1 ano.
+**Cofre( 10 cadeados )** basicamente uma wallet com multisign é a condição de necessitar de 5 a 10 chaves privadas para poder validar a chave publica deste endereço de BITCoin / DOGEcoin.
 
-O valor de R$ 0,10 é a engrenagem de funcionamento de toda a receita deste Projeto que pode ser medida e calculada dia após dia no decorrer de 1 ano. Através deste conceito de previsibilidade que nunca permite nenhum tipo de promessa de qualquer ganho além daquilo que foi depositado (10x R$ 36.50 = R$ 365 por ano).
+Considerando a necessidade de segurança através de um ❝consenso❞ de votação dentro deste Grupo de 10 Pessoas, tudo se realizará de acordo com a aprovação dos 10 Membros deste Grupo através deste ❝consenso❞.
 
-O pagamento de taxas em Br é uma forma de remunerar aquele que mantém o seu investimento por mais de 6 meses, em regra quem acredita(+) por consequência ganha(+), já que todo o ganho está condicionado ao trabalho de esforço computacional em busca de valores perdidos na Blockchain. 
+
 
 .. note::
 
-   A moeda .bit foi criada para ser uma resposta contra os bancos em todo o Planeta que só buscam o lucro de um forma "exagerada" sem retornar alguma lucratividade para todos aqueles que acreditam em sua moeda, moeda esta que está fadada a uma desvalorização absurda ano após ano. 
+A segurança da Blockchain do BITcoin / DOGEcoin , possui uma segurança deste algoritmo ECDSA através de uma curva eliptica SECP256K1 que utiliza coordenadas( X,Y ) que é a multiplicação escalar com números inteiros de 77 digitos através de um campo finito de 78 digitos por módulo de divisão. Em outras palavrar em um Universo de Eletrons isto corresponde a milésima parte deste nosso Universo que pode ser observado hoje.
 
 Objetivo
 --------
-* Bônus de Engajamento no valor de R$ 0,40 por dia.
-* Valorização de R$ 0,10 por Grupo através da aquisição de BRs por este valor todos os dias.
-* O congelamento de R$ 0,50 por dia durante um período de 6 meses para gerar liquidez deste Token Br.
 
-.. Árvore de Decisão::
+.. toctree::
 
-   Grupo de 10 Pessoas
-   IA | Busca de saldos ❝perdidos❞
+   CryptoREAL <self>
+   10Pessoas
+   valorizatoken
+   dogecoin
