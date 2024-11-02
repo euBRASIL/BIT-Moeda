@@ -17,6 +17,5 @@ Objetivo
 .. toctree::
 
    CryptoREAL <self>
-   10Pessoas
    valorizatoken
-   
+   10Pessoas
