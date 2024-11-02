@@ -13,10 +13,7 @@ Considerando a necessidade de segurança através de um ❝consenso❞ de votaç
 
 Objetivo
 --------
+* Bônus de Engajamento no valor de R$ 0,40 por dia.
+* Valorização de R$ 0,10 por Grupo através da aquisição de BRs por este valor todos os dias.
+* O congelamento de R$ 0,50 por dia durante um período de 6 meses para gerar liquidez deste Token Br.
 
-.. toctree::
-
-   CryptoREAL <self>
-   10Pessoas
-   valorizatoken
-   dogecoin
