@@ -9,7 +9,7 @@ Considerando a necessidade de segurança através de um ❝consenso❞ de votaç
 
 .. note::
 
-   A segurança da Blockchain do BITcoin / DOGEcoin , é desenvolvida através do algoritmo ECDSA com sua curva eliptica SECP256K1 que soma pontos de ( X,Y ) em um deterimnado nível de inclinação de 360 graus através da multiplicação escalar dos números inteiros com 77 dígitos, isto em cryptografia ocupa menos espaço e gera uma condição de complexidade muita alta. Em outras palavrar em um Universo de Eletrons isto corresponde a milésima parte deste nosso Universo que pode ser observado hoje.
+   A segurança da Blockchain do BITcoin / DOGEcoin , é desenvolvida através do algoritmo ECDSA com sua curva eliptica SECP256K1 que soma pontos de ( X,Y ) em um determinado nível de inclinação de 360 graus através da multiplicação escalar dos números inteiros com 77 dígitos, isto em cryptografia ocupa menos espaço e gera uma condição de complexidade muita alta.
 
 Objetivo
 --------
