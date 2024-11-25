@@ -1,4 +1,4 @@
-Valorizar R$ 0,10 por dia ?
+Queimar Token Br, pra quê ?
 ===========================
 
 **R$1( +10 centavos )** A cada 1 real investido neste Token BR gera uma valorização de 0,10 centavos por dia, este é um Esquema de Queima de Tokens por dia.
