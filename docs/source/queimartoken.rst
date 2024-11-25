@@ -9,7 +9,8 @@ Considerando que o Total Supply é de 37x Contratos Inteligentes com uma reserva
 
 .. note::
 
-   A Wallet de Queima de Tokens , é geralmente é uma conta formada por 35xZeros "00000000000000000000000000000000000". Onde é impossivel ser gerada pelo algoritmo ECDSA, SHA256 e RIPEMD-160.
+   A Wallet de Queima de Tokens , é geralmente uma conta formada por (35xZeros) "00000000000000000000000000000000000".
+   Onde é impossivel ser gerada pelo algoritmo ECDSA, SHA256 e RIPEMD-160.
 
 Objetivo
 --------
