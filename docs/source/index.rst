@@ -20,3 +20,4 @@ Objetivo
    valorizatoken
    dogecoin
    10Pessoas
+   valorizar10centavos
