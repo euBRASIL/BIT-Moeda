@@ -18,6 +18,6 @@ Objetivo
 
    CryptoREAL <self>
    valorizatoken
+   queimartoken
    dogecoin
    10Pessoas
-   valorizar10centavos
