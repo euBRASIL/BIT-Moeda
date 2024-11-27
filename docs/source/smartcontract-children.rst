@@ -1,7 +1,7 @@
 O que é o SmartContract ❝children❞ ?
 ====================================
 
-**Contrato ❝criança❞** Este contrato é um formato de programação que permite que um novo contrato seja criado após atingir o limite máximo de 10 Pessoas em cada Contrato Inteligente.
+**Contrato ❝criança❞** Este contrato é um formato de programação que permite que um novo contrato seja criado após atingir o limite máximo de 10 Pessoas dentro de cada Contrato Inteligente.
 
 Este novo contrato ❝criança❞ divide o Total Supply de reserva de 1 Trilhão de BRs por / 10, desta forma o novo contrato será criado com uma reserva de 100 Bilhões de BRs, 10 Bilhões de BRs, 1 Bilhão de BRs.
 
