@@ -1,4 +1,4 @@
-O que é o SmartContract( children ) ?
+O que é o SmartContract ❝children❞ ?
 =====================================
 
 **Contrato ❝criança❞** Este contrato é um formato de programação que permite que um novo contrato seja criado após atingir o limite máximo de 10 Pessoas em cada Contrato Inteligente.
