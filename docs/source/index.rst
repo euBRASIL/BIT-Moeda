@@ -21,3 +21,4 @@ Objetivo
    queimartoken
    dogecoin
    10Pessoas
+   smartcontract-children
