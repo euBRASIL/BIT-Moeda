@@ -20,8 +20,8 @@ Objetivo
 
    CryptoREAL <self>
    valorizatoken
-   queimartoken
    lucratividade
+   queimartoken
    dogecoin
    10Pessoas
    smartcontract-children
