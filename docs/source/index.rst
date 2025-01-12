@@ -18,6 +18,7 @@ Objetivo
 
    CryptoREAL <self>
    valorizatoken
+   lucratividade
    queimartoken
    dogecoin
    10Pessoas
