@@ -20,6 +20,6 @@ Objetivo
    valorizatoken
    lucratividade
    queimartoken
-   dogecoin
    10Pessoas
+   dogecoin
    smartcontract-children
