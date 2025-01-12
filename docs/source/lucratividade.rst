@@ -8,9 +8,9 @@ Este ganho por ❝Lucratividade❞ máxima de 400% é real e funcional sem consi
 
 .. note::
 
-   A ❝Lucratividade❞ máxima de 400% por ano
-   A ❝Lucratividade❞ máxima de 100% por trimestre
-   A ❝Lucratividade❞ máxima de 33% por mês
+   A ❝Lucratividade❞ máxima de 400% por ano.
+   A ❝Lucratividade❞ máxima de 100% por trimestre.
+   A ❝Lucratividade❞ máxima de 33% por mês.
 
 
 Objetivo
