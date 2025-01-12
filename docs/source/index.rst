@@ -17,8 +17,8 @@ Objetivo
 .. toctree::
 
    CryptoREAL <self>
-   valorizatoken
    lucratividade
+   valorizatoken
    queimartoken
    10Pessoas
    dogecoin
