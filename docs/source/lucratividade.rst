@@ -16,10 +16,6 @@ Objetivo
 
 .. toctree::
 
-   CryptoREAL <self>
+   lucratividade <self>
    valorizatoken
-   lucratividade
    queimartoken
-   dogecoin
-   10Pessoas
-   smartcontract-children
