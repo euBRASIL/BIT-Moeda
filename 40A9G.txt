@@ -1,0 +1,76 @@
+# 🧮 Projeto: Visualização Criptográfica da Curva secp256k1
+
+## 🎯 Objetivo
+
+Este projeto implementa uma **aplicação web interativa** que demonstra de forma visual e matemática a operação de **multiplicação escalar na curva elíptica `secp256k1`**, usada em criptografia assimétrica (como no Bitcoin). Ele permite:
+
+- Inserir uma chave privada hexadecimal de 64 dígitos
+- Converter essa chave para binário de 256 bits
+- Realizar a multiplicação escalar `Q = k * G` via algoritmo **Double-and-Add**
+- Visualizar passo a passo esse processo como um **rodopio geométrico fractal**
+- Mostrar os cálculos no log, incluindo coordenadas, rotações e operações realizadas
+
+---
+
+## 🔧 Tecnologias Utilizadas
+
+- **HTML5 + CSS3 + JavaScript (ES6+)**
+- **Canvas 2D** para renderização gráfica dinâmica
+- Uso de `BigInt` para aritmética modular precisa
+- Estrutura autocontida — abre diretamente no navegador
+- Código bem comentado e organizado
+
+---
+
+## 📐 Fundamentos Matemáticos
+
+### 📌 Curva Elíptica secp256k1
+
+- **Equação**: $ y^2 = x^3 + 7 \mod p $
+- **p (primo)**: $ 2^{256} - 2^{32} - 977 $
+- **Ponto Base (G)**:
+  - $ G_x = 0x79BE667EF9DCBBAC55A06295CE870B07029BFCDB2DCE28D959F2815B16F81798 $
+  - $ G_y = 0x483ADA7726A3C4655DA4FBFC0E1108A8FD17B448A68554199C47D08FFB10D4B8 $
+
+### 🔄 Algoritmo Double-and-Add
+
+Implementado com aritmética modular real:
+- Cálculo do inverso modular via Pequeno Teorema de Fermat
+- Soma e duplicação de pontos com base nas fórmulas da curva elíptica
+
+---
+
+## 🎨 Visualização Geométrica Avançada
+
+### 🌀 Espiral Fractal Invertida
+
+- Cada bit influencia a posição do ponto Q
+- Representação como espiral inspirada na **Espiral de Arquimedes invertida**
+- Raio e direção são atualizados a cada bit
+
+### 📏 Camadas Concêntricas
+
+- O campo finito é dividido em camadas usando o raio como função do número do bit
+- Cada volta completa representa 40 bits (uma "camada")
+
+### 🧭 Ângulos Fixos (40 posições)
+
+- 40 ângulos de 9° ou 0.9° (configurável)
+- Mapeamento lógico: `bit → ângulo → posição`
+- A cada bit, o ponto avança angularmente conforme sua posição no grupo de 40
+
+### 📐 Matriz 256 × 40
+
+- Associação entre bit e direção angular
+- Permite visualização estruturada e previsível
+- Útil para análise de padrões visuais e correlacionamento com bits
+
+---
+
+## 📈 Função Sigmoide e Rodopios Dinâmicos
+
+### 📊 Suavização Matemática
+
+- A função sigmoide foi integrada para suavizar transições entre bits:
+  ```math
+  \text{sigmoid}(x) = \frac{1}{1 + e^{-x}}
